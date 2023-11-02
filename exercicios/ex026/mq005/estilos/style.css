@@ -37,6 +37,8 @@ i#burguer:hover {
 
 menu {
     display: none;
+    padding-top: 3px;
+    padding-bottom: 3px;
 }
 
 menu li {
@@ -53,7 +55,6 @@ menu ul li a {
     border-top: 2px solid gray;
     border-radius: 5px;
     margin: 5px 10px 5px 10px;
-    padding-bottom: 10px;
 }
 
 a:hover {
