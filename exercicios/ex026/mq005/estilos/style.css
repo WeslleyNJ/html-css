@@ -51,6 +51,9 @@ menu ul li a {
     background-color: rgb(56, 56, 56);
     color: white;
     border-top: 2px solid gray;
+    border-radius: 5px;
+    margin: 5px 10px 5px 10px;
+    padding-bottom: 10px;
 }
 
 a:hover {
